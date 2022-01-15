@@ -45,6 +45,12 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * This app is deployed on Heroku
 
 
+
+
 # Heroku
 
+
+# License
+using open source with this license bage.
+![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
